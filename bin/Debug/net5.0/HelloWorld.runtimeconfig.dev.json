@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\realc\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\realc\\.nuget\\packages"
+    ]
+  }
+}
